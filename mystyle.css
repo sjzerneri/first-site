@@ -1,0 +1,22 @@
+h1 {
+    color: red;
+    text-align: center;
+}
+
+body {
+    background-color: aqua;
+    display: table-cell;
+    vertical-align: middle;
+    text-align: center;
+    font-family: Impact, Charcoal, sans-serif;
+}
+
+html {
+    display: table;
+    margin: auto;
+}
+
+html,
+body {
+    height: 100%;
+}
